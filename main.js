@@ -53,6 +53,12 @@ function getfile(file,callback){
      child2.appendChild(eduTable);
      }
      function skills(skil) {
+	     var eduhed = document.createElement("h2");
+     eduhed.textContent="Skills";
+     child2.appendChild(eduhed);
+
+     var careerhr = document.createElement("hr");
+     child2.appendChild(careerhr);
      	var ul = document.createElement("ul");
      	child2.appendChild(ul);
      	for (var i = 0;i<skil.length;i++) {
