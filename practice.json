@@ -1,0 +1,48 @@
+{
+	"profile":{
+	"name" : "Bhavana",
+	"label" : "Student",
+	"email" : "12345@gmail.com"
+ 	},
+ 	"career":{
+ 		"info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization.",
+ 		"education":"PVP SIDDHARTHA"
+ 	},
+ 	"eduqua":[
+ 		{
+ 			"degree":"B-Tech",
+ 			"institute":"Pvp SIDDHARTHA",
+ 			"info":["2015-19","95"]
+ 		},
+ 		{
+ 		    "degree":"MPC",
+ 			"institute":"Sri Chaitanya",
+ 			"info":["2014-16","98"]
+ 		},
+ 		{
+ 			"degree":"S.S.C",
+ 			"institute":"Sri Vijnana Vihara",
+ 			"info":["2014","95"]
+ 		}
+ 	],
+ 	"skills":[
+ 		{
+ 			"title":"languages",
+ 			"content":["c","python","java","c#","c++","PHP","R"]
+
+ 		},
+         {
+         	"title":"databases",
+         	"content":["sql","MongoDB","MySQL"]
+         },
+         {
+         	"title":"webTechnologies",
+         	"content":["html","css","xml"]
+         },
+         {
+          "title":"Frame works",
+          "content":["Django","CodeIgnitier"]
+         }
+ 	]
+     
+ 	}
